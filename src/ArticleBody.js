@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import './ArticleBody.css'
 
 class ArticleBody extends Component {
     render() {
